@@ -1,0 +1,381 @@
+referal_code,referal_code_from,full_name,gender,place_of_birth,date_of_birth,register_time,beneficiary,province_name,marriage_status,occupation,occupation_other,position,income,bank_name,product_id,periode_id,first_transaction_date,PolicyStatus
+12301000005,,Dwixxxxxiwi,Wanita,Bandar Lampung,4/7/1995,1/2/2023 9:59:51,Ibu,JAWA BARAT,Menikah,Pegawai Swasta,IRT,Staff,100-500 Juta,BCA,ZLF,Monthly,1/28/2023 10:37:54,IF
+12302002533,,Debxxxxxrie,Wanita,Medan,4/26/1986,2/25/2023 14:07:21,Ibu,RIAU,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,Mandiri Bank,ZLF,Monthly,3/3/2023 14:46:27,
+12302002585,,Indxxxxxtri,Wanita,Jakarta,7/17/1982,2/26/2023 18:46:58,Ibu,BANTEN,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,2/26/2023 11:28:28,IF
+12303003052,12301000504,Abdxxxxxhdi,Pria,Jakarta,9/15/1994,3/6/2023 15:45:24,Ibu,DKI JAKARTA,Belum Menikah,Pegawai Swasta,undefined,Staff,60-100 Juta,BCA BANK,ZLP,Monthly,3/6/2023 7:53:49,
+12303003498,12302002522,HARxxxxxNTO,Pria,Jakarta,10/18/1989,3/15/2023 10:53:20,Ibu,JAMBI,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/16/2023 10:30:17,
+12304004925,,Sucxxxxxria,Wanita,Jakarta,10/16/1987,4/13/2023 13:29:52,Ibu,DKI JAKARTA,Duda,Pegawai Swasta,,Staff,100-500 Juta,Mandiri Bank,ZLF,Monthly,4/27/2023 7:03:20,IF
+12304005042,,Nurxxxxxati,Wanita,Medan,6/6/1994,4/19/2023 17:45:50,Ibu,SUMATERA UTARA,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/19/2023 10:02:44,IF
+12306006305,12304005245,Muhxxxxxrja,Pria,Sukabumi,4/29/2000,6/8/2023 23:23:12,Ibu,JAWA BARAT,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLP,Yearly,6/16/2023 10:17:18,IF
+12307007747,,Leoxxxxxian,Pria,Makassar,8/19/1989,7/28/2023 15:13:43,Ibu,SULAWESI SELATAN,Belum Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,Freelance,Staff,100-500 Juta,Mandiri Bank,ZLF,Monthly,7/28/2023 7:34:34,IF
+12308007941,,nanxxxxxiwi,Wanita,jambi,7/13/1993,8/2/2023 9:01:46,Ibu,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,8/2/2023 1:18:33,IF
+12308007942,,Vinxxxxxita,Wanita,Jakarta,10/24/1990,8/2/2023 10:25:12,Ibu,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,8/2/2023 4:41:30,IF
+12308008522,,MadxxxxxAdi,Pria,Karangasem,9/22/1988,8/20/2023 21:31:34,Ibu,BALI,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,100-500 Juta,BCA BANK,ZLF,Yearly,8/21/2023 7:59:35,IF
+12308008699,,Meyxxxxxari,Wanita,Jakarta,5/24/1990,8/25/2023 19:05:48,Ibu,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,8/25/2023 11:16:21,IF
+72301000021,72211003101,Rahxxxxxtri,Wanita,Palu,6/2/1987,1/2/2023 22:55:47,Ibu,SULAWESI TENGAH,Belum Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,Bank BNI,ZLP,Monthly,1/2/2023 23:20:27,IF
+72301000287,,Fikxxxxxoli,Pria,Bogor,1/31/1994,1/11/2023 16:10:54,Ibu,JAWA BARAT,Belum Menikah,Lainnya,Wirausaha,Staff,60-100 Juta,BCA,ZLP,Monthly,1/19/2023 10:28:57,IF
+112304004655,112211100006,Romxxxxxtro,Pria,Surabaya,1/25/1997,4/6/2023 12:19:20,Ibu,JAWA TIMUR,Belum Menikah,Lainnya,Staff,Staff,60-100 Juta,BNI,ZLF,Yearly,4/12/2023 10:17:18,IF
+12304004420,,MUHxxxxxOWO,Pria,Kebumen,8/12/2001,4/1/2023 1:42:55,Ibu,JAWA TENGAH,Belum Menikah,Lainnya,Mahasiswa,Lainnya,60-100 Juta,Mandiri,ZLF,Monthly,3/31/2023 18:01:51,
+12304004805,12303003623,Cynxxxxxika,Wanita,Bekasi,1/5/1993,4/10/2023 15:29:08,Ibu,JAWA BARAT,Belum Menikah,Lainnya,Ibu Rumah Tangga,Lainnya,60-100 Juta,BCA BANK,ZLP,Monthly,4/10/2023 7:49:40,IF
+12305005541,,Jemxxxxxria,Pria,Sukabumi,11/18/1987,5/12/2023 13:16:11,Ibu,JAWA BARAT,Belum Menikah,Lainnya,Ojol,Lainnya,60-100 Juta,BCA BANK,ZLP,Monthly,5/14/2023 0:41:05,IF
+12307007029,,DOAxxxxxROP,Pria,AEK KANOPAN,8/17/1979,7/4/2023 21:09:28,Ibu,SUMATERA UTARA,Belum Menikah,Lainnya,FREELAND,Lainnya,60-100 Juta,BRI,ZLF,Monthly,7/5/2023 7:41:21,IF
+12306006283,,Mahxxxxxhap,Wanita,Medan,7/12/1986,6/8/2023 11:44:21,Ibu,SUMATERA UTARA,Duda,Lainnya,Pedagang,Direktur,60-100 Juta,BNI,ZLF,Monthly,6/16/2023 6:41:49,IF
+12303003229,,Merxxxxxnti,Wanita,Padang,9/26/1986,3/9/2023 11:27:18,Ibu,JAWA BARAT,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,Mandiri Bank,ZLF,Monthly,3/24/2023 3:12:23,IF
+12305005652,,Twexxxxxika,Wanita,Jakarta,10/24/1991,5/16/2023 16:37:58,Ibu,DKI JAKARTA,Menikah,Pegawai Swasta,,Asisten Manajer,60-100 Juta,BCA BANK,ZLF,Monthly,5/19/2023 13:22:02,IF
+12306006498,,Nopxxxxxtyo,Pria,Purwokerto,11/29/1990,6/15/2023 11:54:31,Ibu,JAWA BARAT,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BRI,ZLF,Monthly,6/16/2023 10:17:18,IF
+12303004025,,Melxxxxxa K,Pria,Manado,5/11/1981,3/25/2023 21:03:14,Ibu,JAWA BARAT,Duda,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,5/1/2023 11:23:10,IF
+162308008195,162307007461,Tarxxxxxpto,Wanita,Jakarta,11/18/1984,8/10/2023 15:35:32,Ibu,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLP,Yearly,8/14/2023 7:25:29,IF
+12303002856,,Erixxxxxnti,Wanita,Bandung,1/9/1986,3/2/2023 15:43:46,Ibu,JAWA BARAT,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,3/2/2023 8:13:13,IF
+12304004998,12303004097,Kasxxxxxkin,Pria,Singkawang,3/30/1981,4/17/2023 16:52:56,Ibu,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,4/17/2023 9:45:14,
+12305005374,,Rikxxxxxtra,Pria,sukabumi,3/20/1996,5/5/2023 22:24:10,Ibu,BANTEN,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,Mandiri Bank,ZLF,Monthly,5/6/2023 1:41:18,
+12305005515,,Metxxxxxari,Wanita,Jakarta,8/14/1993,5/11/2023 16:24:14,Ibu,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,5/17/2023 10:17:18,IF
+12307007850,,Davxxxxxiel,Pria,Jakarta,10/4/1994,7/31/2023 11:03:42,Ibu,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BNI,ZLF,Monthly,7/31/2023 4:56:29,IF
+12308008290,,Nikxxxxxksa,Pria,Jakarta,5/14/1998,8/13/2023 19:52:52,Ibu,JAWA BARAT,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,8/13/2023 12:09:30,IF
+12303003449,,Alfxxxxxfka,Pria,Jakarta,8/31/1999,3/14/2023 8:57:28,Ayah,JAWA BARAT,Belum Menikah,Lainnya,Ajudan Walikota,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/14/2023 1:05:37,IF
+12303003686,,Benxxxxxdar,Wanita,Jakarta,7/8/1983,3/18/2023 18:12:24,Ayah,BANTEN,Belum Menikah,Pegawai Swasta,,Direktur,100-500 Juta,BCA BANK,ZLF,Yearly,3/18/2023 11:21:40,IF
+12209000121,,Muhxxxxxisi,Pria,Bekasi,4/14/1995,9/5/2022 14:48:18,Ayah,JAWA BARAT,Belum Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLP,Monthly,3/2/2023 4:04:39,IF
+12304005136,,Widxxxxxlia,Wanita,Jakarta,9/11/1984,4/25/2023 19:46:07,Ayah,DKI JAKARTA,Duda,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,4/28/2023 3:49:02,IF
+12304004935,12302002164,Nokxxxxxaya,Pria,Madiun,12/3/1990,4/14/2023 10:31:37,Ayah,JAWA TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Monthly,4/14/2023 3:27:03,IF
+12305005371,12212003453,Dirxxxxxgke,Pria,Jakarta,10/20/1979,5/5/2023 17:49:30,Ayah,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,6/7/2023 6:08:33,IF
+12303004359,12302002528,Morxxxxxlim,Pria,Jakarta,9/9/1999,3/30/2023 23:37:47,Ayah,BANTEN,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,Mandiri Bank,ZLF,Yearly,3/31/2023 0:43:44,IF
+12307007663,,Henxxxxxian,Pria,Bandung,5/6/1996,7/26/2023 16:39:11,Ayah,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,7/26/2023 9:06:53,IF
+12308008288,,Citxxxxxami,Wanita,Sumedang,2/13/1996,8/13/2023 19:26:37,Ayah,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,8/13/2023 11:50:40,IF
+12302001163,,I Pxxxxxtra,Pria,Denpasar,9/10/1992,2/1/2023 13:00:18,Adik Kandung,BALI,Belum Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,undefined,Staff,100-500 Juta,BCA,ZLP,Monthly,2/1/2023 6:34:21,IF
+12302002216,,Katxxxxxjar,Wanita,Ujung Pandanf,8/15/1992,2/22/2023 15:25:05,Adik Kandung,BANTEN,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLF,Monthly,2/22/2023 8:05:49,
+12302002561,,AGUxxxxxARI,Wanita,JAKARTA,8/17/1987,2/26/2023 0:08:59,Adik Kandung,JAWA BARAT,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,2/25/2023 18:15:56,IF
+12303003333,,Rubxxxxxtra,Pria,Purwokerto,2/16/1989,3/11/2023 14:39:28,Adik Kandung,BALI,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/6/2023 10:17:18,IF
+12303003360,,Andxxxxxwan,Pria,Jakarta,1/13/1982,3/12/2023 10:41:35,Adik Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,3/12/2023 3:12:54,IF
+12303004005,12303003954,Estxxxxxati,Wanita,Jakarta,8/29/1970,3/25/2023 11:07:19,Adik Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/27/2023 11:43:00,
+12303004112,12303004005,Chaxxxxxwat,Wanita,Jakarta,1/20/1995,3/27/2023 14:24:26,Adik Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Quarterly,3/27/2023 6:41:52,IF
+12304004531,,adexxxxxsih,Wanita,JAKARTA,3/24/1991,4/3/2023 15:14:10,Adik Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,Danamon Bank,ZLP,Monthly,4/3/2023 10:18:19,IF
+12306006769,,Indxxxxxnti,Wanita,Jakarta,11/10/1982,6/24/2023 21:37:58,Adik Kandung,DKI JAKARTA,Duda,Lainnya,Tenaga Ahli Anggota DPR RI,Staff,100-500 Juta,Mandiri Bank,ZLF,Monthly,6/27/2023 0:20:21,IF
+12307007000,,Ni xxxxxutu,Wanita,Jakarta,10/23/1992,7/4/2023 6:42:10,Adik Kandung,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BRI,ZLF,Monthly,7/4/2023 3:20:37,IF
+12308007940,,YANxxxxxANA,Pria,TASIKMALAYA,5/14/1998,8/2/2023 8:17:19,Adik Kandung,JAWA BARAT,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,8/2/2023 0:31:30,IF
+12308008502,,Yusxxxxxaus,Pria,Jakarta,11/18/1972,8/20/2023 4:52:09,Adik Kandung,BANTEN,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,8/20/2023 8:02:42,IF
+112303003048,112211100006,SUTxxxxxOMO,Pria,Surabaya,12/4/1967,3/6/2023 15:11:35,Adik Kandung,JAWA TIMUR,Belum Menikah,Lainnya,Administrasi,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,3/6/2023 10:17:18,IF
+12301000368,,SYAxxxxxLAH,Pria,Kalimantan selatan,1/8/1986,1/14/2023 17:26:52,Adik Kandung,KALIMANTAN SELATAN,Belum Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,None,ZLF,Half yearly,1/14/2023 9:58:43,IF
+12301000563,,Rizxxxxxika,Wanita,Kediri,8/25/2000,1/20/2023 20:04:12,Adik Kandung,JAWA TIMUR,Belum Menikah,Lainnya,Mahasiswa,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,5/3/2023 11:00:59,
+12301000989,,Ratxxxxxmah,Wanita,Bandung,11/24/1999,1/28/2023 20:01:44,Adik Kandung,JAWA BARAT,Belum Menikah,Lainnya,Mahasiswa,Lainnya,60-100 Juta,BRI,ZLF,Monthly,1/29/2023 5:37:19,
+12302001455,,BINxxxxxBAH,Wanita,KEDIRI,7/7/1977,2/7/2023 13:03:37,Adik Kandung,JAWA TIMUR,Duda,Lainnya,WIRASWASTA,Lainnya,100-500 Juta,BSI,ZLF,Yearly,2/7/2023 5:40:42,
+12303003785,,Perxxxxxaha,Pria,Wonogiri,12/28/2002,3/20/2023 20:42:50,Adik Kandung,JAWA TENGAH,Belum Menikah,Lainnya,Mahasiswa,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/21/2023 11:25:12,IF
+12306006688,12306006605,JAMxxxxxJAK,Pria,SAMPETUA,9/17/1977,6/21/2023 15:16:41,Adik Kandung,SUMATERA UTARA,Duda,Lainnya,PETANI,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,6/22/2023 4:58:16,IF
+12308008637,,Fanxxxxxnny,Wanita,Medan,10/14/1989,8/24/2023 19:54:49,Adik Kandung,SUMATERA UTARA,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,8/24/2023 14:24:28,IF
+12303002995,,Ni xxxxxari,Wanita,Denpasar,11/6/1987,3/5/2023 13:28:10,Adik Kandung,BALI,Belum Menikah,Lainnya,Wiraswasta,Direktur,100-500 Juta,BCA BANK,ZLF,Monthly,3/5/2023 5:48:05,IF
+12303003884,,Tasxxxxxati,Wanita,Denpasar,4/26/1995,3/22/2023 22:44:40,Adik Kandung,BALI,Menikah,Pegawai Swasta,,Direktur,60-100 Juta,BCA BANK,ZLF,Monthly,3/23/2023 14:38:31,IF
+12307007008,,Idaxxxxxwan,Pria,Denpasar,6/20/1990,7/4/2023 14:57:05,Adik Kandung,BALI,Menikah,Pegawai Swasta,,Direktur,100-500 Juta,BNI,ZLF,Yearly,7/5/2023 5:33:18,IF
+12307007173,,Andxxxxxyka,Pria,Tangerang,1/12/1993,7/10/2023 14:46:56,Adik Kandung,BANTEN,Belum Menikah,Lainnya,Waiters,Eselon 1,60-100 Juta,UOB,ZLF,Monthly,7/10/2023 7:14:48,IF
+12305005607,,I DxxxxxRAH,Pria,Tabanan,11/22/1963,5/14/2023 20:57:58,Adik Kandung,BALI,Menikah,Pegawai Swasta,,Komisaris,60-100 Juta,Mandiri Bank,ZLF,Yearly,5/14/2023 13:59:16,IF
+12306006902,,Kanxxxxxrly,Wanita,Cianjur,6/7/1993,6/29/2023 12:08:25,Adik Kandung,JAWA BARAT,Menikah,Lainnya,wiraswasta,Komisaris,100-500 Juta,BRI,ZLF,Monthly,6/29/2023 4:27:49,IF
+12301000722,,Benxxxxxngo,Pria,Holbung,6/25/1991,1/24/2023 10:37:17,Adik Kandung,SUMATERA UTARA,Belum Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,Bank BCA,ZLF,Monthly,1/24/2023 4:36:49,
+12304005117,,Rioxxxxxwan,Pria,Surabaya,2/23/1989,4/24/2023 9:17:16,Adik Kandung,JAWA TIMUR,Belum Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Monthly,4/25/2023 7:28:33,IF
+12304005245,,SEBxxxxxY S,Pria,Palemban,1/20/2000,5/1/2023 0:46:06,Adik Kandung,SUMATERA SELATAN,Belum Menikah,Pegawai Swasta,undefined,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Monthly,4/30/2023 17:00:23,IF
+12308008660,,Rinxxxxxnti,Wanita,Tangerang,3/9/1984,8/25/2023 10:33:30,Adik Kandung,BANTEN,Belum Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,8/25/2023 3:52:52,IF
+12212003632,,Agnxxxxxdri,Wanita,Jakarta,7/15/1989,12/8/2022 19:19:59,Adik Kandung,JAWA BARAT,Belum Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA,ZLF,Monthly,1/7/2023 10:49:11,
+12304004841,,Sucxxxxxini,Wanita,Jakarta,12/5/1990,4/11/2023 13:03:00,Adik Kandung,DKI JAKARTA,Duda,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,4/11/2023 5:14:34,IF
+12302001947,,Putxxxxxnta,Wanita,Bali,5/17/2003,2/16/2023 17:45:20,Kakak Kandung,BALI,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLP,Monthly,3/2/2023 11:39:05,IF
+12303003954,12303003819,Fraxxxxxowo,Pria,Jaakrta,7/2/1974,3/24/2023 13:55:30,Kakak Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/27/2023 11:42:08,
+12306006351,12303003507,Srixxxxxami,Wanita,Makassar,10/26/2000,6/10/2023 15:08:02,Kakak Kandung,SULAWESI SELATAN,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BRI,ZLF,Monthly,6/10/2023 7:57:34,IF
+12306006552,12304005245,Verxxxxxana,Wanita,Tarempa,4/24/1999,6/16/2023 19:26:54,Kakak Kandung,KEPULAUAN RIAU,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BNI,ZLF,Yearly,6/16/2023 11:39:30,IF
+12307007130,,Fraxxxxxnti,Wanita,Baturusa,2/19/1985,7/8/2023 14:14:12,Kakak Kandung,KEPULAUAN BANGKA BELITUNG,Belum Menikah,Pegawai Swasta,,Staff,100-500 Juta,Mandiri Bank,ZLF,Monthly,7/9/2023 21:45:56,IF
+12307007390,,arixxxxxika,Wanita,mekah,1/30/1992,7/17/2023 17:58:12,Kakak Kandung,BANTEN,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,7/17/2023 17:18:14,IF
+12307007649,12305005810,Bagxxxxxojo,Pria,Jakarta,8/8/1993,7/26/2023 11:46:26,Kakak Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLP,Monthly,7/26/2023 4:43:39,IF
+12211002938,,Nelxxxxxati,Wanita,Mataram,11/10/1984,11/23/2022 16:33:05,Kakak Kandung,NUSA TENGGARA BARAT,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,5/13/2023 8:25:26,IF
+12303002905,,Yohxxxxxina,Wanita,Pontianak,10/7/1992,3/3/2023 12:29:41,Kakak Kandung,KALIMANTAN BARAT,Menikah,Lainnya,Ibu Rumah Tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/3/2023 5:02:23,IF
+12308008045,,Julxxxxxina,Wanita,Bandar Lampung,7/20/1991,8/5/2023 10:29:33,Kakak Kandung,LAMPUNG,Belum Menikah,Pegawai Swasta,,Lainnya,60-100 Juta,BANK PERMATA,ZLF,Monthly,8/5/2023 2:42:42,IF
+12303004248,,Incxxxxxn A,Pria,Kolaka,7/25/1992,3/29/2023 12:04:59,Kakak Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Direktur,60-100 Juta,BCA BANK,ZLF,Monthly,3/29/2023 4:19:45,
+12212003631,82211003404,Hanxxxxxsen,Pria,Medan,12/7/1980,12/8/2022 18:47:10,Kakak Kandung,DKI JAKARTA,Duda,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,OCBC,ZLF,Monthly,4/13/2023 4:55:18,IF
+12301000077,,Ketxxxxxana,Pria,Singaraja,3/13/1984,1/4/2023 16:09:08,Kakak Kandung,BALI,Belum Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,Bank Central Asia,ZLF,Monthly,1/4/2023 8:18:51,
+12304004613,,Donxxxxxbis,Wanita,jakarta,9/7/1988,4/5/2023 11:08:58,Kakak Kandung,BANTEN,Belum Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Monthly,4/10/2023 4:59:46,IF
+162308008762,162307007461,Immxxxxxing,Pria,Jakarta,6/7/1978,8/28/2023 13:29:24,Kakak Kandung,DKI JAKARTA,Duda,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,Danamon Bank,ZLP,Yearly,8/28/2023 5:51:38,IF
+12305005810,12305005806,Helxxxxxnti,Wanita,Jakarta,1/20/1980,5/24/2023 18:03:59,Kakak Kandung,DKI JAKARTA,Belum Menikah,Pegawai Swasta,undefined,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLP,Monthly,5/25/2023 2:53:42,IF
+12301000054,,Rizxxxxxana,Pria,Jakarta,12/14/1980,1/3/2023 19:18:16,Anak Laki-laki,BANTEN,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BRI,ZLF,Monthly,1/3/2023 12:08:06,
+12301000995,,Johxxxxxnes,Pria,Jakarta,3/8/1988,1/28/2023 23:48:47,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Bank Central Asia,ZLF,Monthly,1/28/2023 16:33:40,IF
+12302002668,12211002778,Shixxxxxi L,Wanita,Jakaeta,8/2/1972,2/27/2023 18:36:11,Anak Laki-laki,DKI JAKARTA,Duda,Pegawai Swasta,,Staff,100-500 Juta,Mandiri,ZLF,Monthly,2/27/2023 11:04:49,
+12302002670,,Aloxxxxxara,Pria,Jakarta,3/1/1983,2/27/2023 19:38:22,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLF,Monthly,2/28/2023 13:00:34,IF
+12303003919,,Utaxxxxxita,Wanita,Jakarta,10/9/1986,3/23/2023 19:20:44,Anak Laki-laki,DKI JAKARTA,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,BRI,ZLF,Monthly,3/25/2023 4:30:11,IF
+12303004091,,Nauxxxxxtya,Pria,Jakarta,6/1/1995,3/27/2023 5:12:05,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,undefined,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/28/2023 3:36:15,IF
+12303004390,12303004097,Nunxxxxxani,Wanita,Semarang,5/7/1982,3/31/2023 12:04:14,Anak Laki-laki,JAWA TENGAH,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLP,Monthly,3/31/2023 9:06:09,
+12303004409,,Srixxxxxbis,Wanita,Binjai,12/1/1986,3/31/2023 20:54:38,Anak Laki-laki,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,5/10/2023 2:43:45,IF
+12304004955,,Linxxxxxati,Wanita,Pandeglang,5/18/1986,4/15/2023 9:55:06,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,7/6/2023 7:47:28,IF
+12304005231,,Rinxxxxxary,Wanita,Palopo,2/22/1993,4/30/2023 6:25:28,Anak Laki-laki,JAWA BARAT,Menikah,Lainnya,wiraswasta,Staff,60-100 Juta,Mandiri Bank,ZLF,Monthly,4/30/2023 4:12:38,IF
+12306006171,,Airxxxxxana,Wanita,Jakarta,11/14/1989,6/4/2023 6:28:44,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,6/3/2023 23:35:52,IF
+12306006451,,Desxxxxxlia,Wanita,TASIKMALAYA,6/13/1991,6/13/2023 17:40:37,Anak Laki-laki,BANTEN,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,6/13/2023 9:48:48,IF
+12307007402,,Siaxxxxxvia,Wanita,Pangkal pinang,9/27/1979,7/18/2023 9:11:38,Anak Laki-laki,BANTEN,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,7/18/2023 8:35:34,IF
+12308008297,,Marxxxxxana,Wanita,Pinrang,3/13/1965,8/13/2023 21:07:55,Anak Laki-laki,SULAWESI SELATAN,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,BTN,ZLF,Monthly,8/13/2023 13:28:44,IF
+12308008298,,Marxxxxxhen,Pria,Ujung Pandang,5/13/1964,8/13/2023 21:36:55,Anak Laki-laki,SULAWESI SELATAN,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,8/13/2023 13:46:49,IF
+12302001919,12302001419,UMIxxxxxROH,Wanita,BEKASI,5/12/1965,2/15/2023 21:24:09,Anak Laki-laki,JAWA BARAT,Menikah,Lainnya,DAGANG,Lainnya,100-500 Juta,Mandiri Bank,ZLF,Yearly,2/15/2023 13:35:29,IF
+12302002638,,SRIxxxxxARI,Wanita,Tangerang,7/10/1982,2/27/2023 14:46:25,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Lainnya,100-500 Juta,CIMB NIAGA,ZLF,Monthly,7/25/2023 11:25:30,IF
+12303002810,,Ferxxxxxadi,Wanita,Jakarta,2/26/1992,3/1/2023 18:08:48,Anak Laki-laki,BANTEN,Menikah,Lainnya,WIRAUSAHA,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/1/2023 10:28:55,IF
+12303002847,12302002306,RR xxxxxila,Wanita,Semarang,9/28/1991,3/2/2023 14:12:40,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Ibu Rumah Tangga,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,3/2/2023 6:24:07,IF
+12303003332,,Susxxxxxani,Wanita,Cilacap,7/28/1989,3/11/2023 13:57:49,Anak Laki-laki,JAWA TENGAH,Belum Menikah,Lainnya,Terapis pijat,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,7/11/2023 10:48:06,IF
+12303003384,,Ernxxxxxi K,Wanita,Bandung,6/2/1992,3/13/2023 0:01:05,Anak Laki-laki,JAWA BARAT,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,Bank BJB Syariah,ZLF,Monthly,4/20/2023 6:47:12,
+12303003431,12303003358,Srixxxxxati,Wanita,PURWAKARTA,1/1/1966,3/13/2023 22:20:42,Anak Laki-laki,JAWA BARAT,Duda,Lainnya,Berjualan,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Quarterly,3/13/2023 14:31:07,IF
+12303004413,,Merxxxxxian,Wanita,Paranginan Taput,9/1/1964,3/31/2023 22:44:59,Anak Laki-laki,SUMATERA UTARA,Menikah,Lainnya,Ibu Rumah Tangga,Lainnya,60-100 Juta,BRI,ZLF,Monthly,3/31/2023 15:01:38,IF
+12304004754,,InaxxxxxIna,Wanita,Surabaya,4/24/1985,4/8/2023 23:32:23,Anak Laki-laki,JAWA TIMUR,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,4/26/2023 3:09:40,IF
+12304004848,12304004529,Rasxxxxxi S,Wanita,MEDAN,4/6/1963,4/11/2023 15:39:00,Anak Laki-laki,JAWA BARAT,Menikah,Lainnya,IBU RUMAH TANGGA,Lainnya,60-100 Juta,BRI,ZLF,Monthly,4/11/2023 10:05:52,
+12304004961,,Yulxxxxxnti,Wanita,Magelang,7/13/1974,4/15/2023 17:09:42,Anak Laki-laki,JAWA BARAT,Menikah,Lainnya,Agent Asuransi,Lainnya,100-500 Juta,Mandiri Bank,ZLF,Monthly,4/18/2023 6:43:37,
+12304005098,12304004907,Chrxxxxxwan,Pria,Yogyakarta,5/1/1991,4/22/2023 10:49:08,Anak Laki-laki,JAWA TIMUR,Duda,Lainnya,Programer,Lainnya,60-100 Juta,UOB,ZLF,Monthly,4/22/2023 11:45:16,IF
+12305005264,,Harxxxxxana,Wanita,Solo,12/25/1967,5/1/2023 19:43:34,Anak Laki-laki,JAWA TENGAH,Duda,Lainnya,Pedagang,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,5/1/2023 12:30:01,
+12305005269,,Mudxxxxxkah,Wanita,Surabaya,9/6/1980,5/1/2023 22:40:18,Anak Laki-laki,DKI JAKARTA,Duda,Lainnya,Wiraswasta,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,5/3/2023 11:53:05,IF
+12305005457,12305005419,Stexxxxxine,Wanita,Bandung,8/12/1973,5/9/2023 15:58:46,Anak Laki-laki,JAWA BARAT,Duda,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,CIMB NIAGA,ZLF,Monthly,5/9/2023 8:18:44,IF
+12305005830,12304004907,Graxxxxxoto,Wanita,Surabaya,1/7/1989,5/25/2023 10:58:49,Anak Laki-laki,BANTEN,Menikah,Lainnya,Seller online shop,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,5/25/2023 3:28:29,IF
+12306006147,,Marxxxxxael,Wanita,Menado,3/24/1981,6/3/2023 10:51:20,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,6/3/2023 3:04:40,IF
+12306006209,,MOCxxxxxANI,Pria,Jakarta,4/29/1987,6/5/2023 16:13:04,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,6/26/2023 3:58:03,IF
+12306006342,12306006312,Ranxxxxxita,Pria,Malang,1/10/1985,6/10/2023 7:19:38,Anak Laki-laki,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,6/9/2023 23:59:38,IF
+12306006692,12306006688,DELxxxxxGUK,Wanita,Medan,3/11/1983,6/21/2023 21:28:35,Anak Laki-laki,RIAU,Duda,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,6/22/2023 3:37:08,IF
+12306006763,,Nikxxxxxdra,Wanita,Pontianak,7/4/1962,6/24/2023 10:19:07,Anak Laki-laki,KALIMANTAN BARAT,Menikah,Lainnya,Ibu Rumah Tangga,Lainnya,60-100 Juta,Danamon Bank,ZLF,Yearly,6/24/2023 2:45:26,IF
+12307007054,,vivxxxxxoho,Wanita,jakarta,12/2/1969,7/5/2023 16:04:36,Anak Laki-laki,JAWA TIMUR,Menikah,Lainnya,ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Yearly,7/5/2023 15:24:31,IF
+12307007256,,Chrxxxxxuis,Wanita,Sibolga,3/17/1985,7/13/2023 10:10:51,Anak Laki-laki,JAWA BARAT,Menikah,Lainnya,ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Half yearly,7/13/2023 5:58:35,IF
+12307007525,,Tioxxxxxiar,Wanita,Jakarta,6/3/1982,7/22/2023 10:33:54,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,7/22/2023 3:00:32,IF
+12307007556,12307007410,Ranxxxxxaol,Pria,Bunturaja,2/25/1979,7/23/2023 12:43:47,Anak Laki-laki,SUMATERA UTARA,Menikah,Lainnya,Agen Asuransi,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,7/24/2023 16:33:24,IF
+12307007828,,Elsxxxxxlsa,Wanita,Jakarta,12/6/1970,7/30/2023 15:16:16,Anak Laki-laki,DKI JAKARTA,Duda,Lainnya,Wirausaha,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,7/31/2023 10:49:20,IF
+12307007843,12306006688,RISxxxxxHOR,Wanita,LUMBAN SIANTAR,7/28/1974,7/30/2023 23:54:58,Anak Laki-laki,SUMATERA UTARA,Duda,Lainnya,TENAGA MEDIS KESEHATAN,Lainnya,60-100 Juta,BNI,ZLF,Monthly,8/1/2023 8:01:37,IF
+12307007860,,Oeixxxxxono,Wanita,Sidoarjo,7/25/1991,7/31/2023 12:41:11,Anak Laki-laki,JAWA TIMUR,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Half yearly,8/1/2023 3:48:14,IF
+12308008108,12308008093,Racxxxxxwan,Wanita,Jakarta,8/27/1974,8/7/2023 22:38:33,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Lainnya,Diatas 500 Juta,BCA BANK,ZLF,Yearly,8/7/2023 15:13:43,IF
+12301001004,,Chaxxxxxono,Pria,jakarta,5/23/1986,1/29/2023 9:50:17,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,seniman,Direktur,60-100 Juta,BCA BANK,ZLF,Yearly,2/21/2023 13:50:45,IF
+12303003260,12303003012,MUHxxxxxYAS,Pria,SMG,12/30/1981,3/9/2023 23:54:44,Anak Laki-laki,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Direktur,Diatas 500 Juta,Mandiri,ZLF,Monthly,3/9/2023 16:09:05,IF
+12303003756,,kusxxxxxedi,Pria,bannyumas,10/10/1965,3/20/2023 12:57:10,Anak Laki-laki,BANTEN,Menikah,Lainnya,wiraswasta,Direktur,Diatas 500 Juta,BCA BANK,ZLF,Yearly,5/14/2023 5:11:14,IF
+12304005007,,Litxxxxxewi,Wanita,Madiun,7/23/1980,4/18/2023 8:24:01,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Direktur,Diatas 500 Juta,BCA BANK,ZLF,Quarterly,5/24/2023 17:17:26,IF
+12306006245,,CarxxxxxUda,Wanita,Palangkaraya,9/27/1985,6/7/2023 7:32:18,Anak Laki-laki,BALI,Menikah,Lainnya,Wiraswasta,Direktur,60-100 Juta,BCA BANK,ZLF,Half yearly,6/21/2023 8:20:40,IF
+12306006882,,Verxxxxxska,Wanita,Jakarta,4/20/1981,6/28/2023 15:34:03,Anak Laki-laki,DKI JAKARTA,Duda,Pegawai Swasta,,Direktur,Diatas 500 Juta,BCA BANK,ZLF,Monthly,6/28/2023 8:02:05,IF
+12307007419,,Tanxxxxxnto,Pria,Jakarta,9/16/1983,7/18/2023 21:14:36,Anak Laki-laki,JAWA BARAT,Duda,Pegawai Swasta,,Direktur,60-100 Juta,BCA BANK,ZLF,Monthly,7/18/2023 13:32:37,IF
+12307007437,,zubxxxxxari,Wanita,jakarta,6/3/1987,7/19/2023 22:45:35,Anak Laki-laki,DKI JAKARTA,Duda,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,undefined,Eselon 4,100-500 Juta,Mandiri Syariah,ZLF,Yearly,7/20/2023 9:00:52,IF
+12303003012,,Anixxxxxari,Wanita,Semarang,1/11/1988,3/5/2023 21:54:01,Anak Laki-laki,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Komisaris,100-500 Juta,BCA BANK,ZLF,Monthly,3/8/2023 0:45:18,IF
+12303003507,,Mohxxxxxrdi,Wanita,Surabaya,5/10/1965,3/15/2023 13:55:14,Anak Laki-laki,SULAWESI SELATAN,Menikah,Lainnya,Pedagang,Komisaris,100-500 Juta,BRI,ZLF,Monthly,4/1/2023 1:27:13,
+12303003918,,I Gxxxxxsni,Wanita,Denpasar,8/25/1968,3/23/2023 18:09:40,Anak Laki-laki,BALI,Menikah,Lainnya,Wiraswasta,Komisaris,100-500 Juta,BCA BANK,ZLF,Monthly,3/23/2023 11:26:18,IF
+12305005726,,Ng xxxxxati,Wanita,Tembilahan Riau,1/10/1973,5/20/2023 19:56:34,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Komisaris,100-500 Juta,BCA BANK,ZLF,Monthly,5/22/2023 6:00:13,
+12211002778,,Lisxxxxxati,Wanita,Jakarta,5/14/1980,11/21/2022 21:12:20,Anak Laki-laki,DKI JAKARTA,Menikah,Lainnya,Bisnis asuransi,Asisten Manajer,60-100 Juta,Mandiri Bank,ZLF,Monthly,2/9/2023 9:31:15,IF
+12305005304,,Muhxxxxxman,Pria,Sumedang,8/17/1995,5/3/2023 16:16:59,Anak Laki-laki,JAWA BARAT,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,5/4/2023 9:26:24,
+12305005682,,Carxxxxxnda,Wanita,Jakarta,6/13/1990,5/18/2023 23:54:59,Anak Laki-laki,BANTEN,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,5/31/2023 17:50:23,IF
+12302002306,,Harxxxxxlah,Pria,Jakarta,10/16/1984,2/23/2023 22:45:10,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Monthly,2/23/2023 15:07:44,IF
+12304005083,,Iwaxxxxxaya,Pria,Jakarta,8/17/1984,4/21/2023 19:01:26,Anak Laki-laki,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Monthly,4/24/2023 7:59:25,IF
+12306006145,,IvaxxxxxEka,Pria,Jakarta,11/15/1981,6/3/2023 8:06:41,Anak Laki-laki,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,Mandiri Bank,ZLF,Monthly,6/6/2023 1:29:29,IF
+12306006312,,Deixxxxxdja,Wanita,Kupang,12/1/1987,6/9/2023 6:34:32,Anak Laki-laki,JAWA TENGAH,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,6/9/2023 23:27:59,IF
+12306006760,,Adrxxxxxtra,Pria,Jakarta,11/11/1987,6/24/2023 2:47:57,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLP,Monthly,6/25/2023 14:13:53,IF
+12307007668,,Ferxxxxxndi,Pria,LUMAJANG,2/18/1982,7/26/2023 19:22:10,Anak Laki-laki,JAWA TIMUR,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Yearly,7/26/2023 15:53:56,IF
+162308008362,162307007461,EvaxxxxxEva,Wanita,Jakarta,11/8/1992,8/15/2023 14:17:30,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,8/18/2023 2:18:00,IF
+12302001878,,tjhxxxxxauw,Pria,jakarta,2/4/1981,2/15/2023 9:20:07,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,2/15/2023 2:57:41,IF
+12303003182,,Ahmxxxxxuhu,Pria,Jakarta,3/26/1988,3/8/2023 17:06:10,Anak Laki-laki,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,3/8/2023 11:56:12,IF
+12305005522,,Dymxxxxxono,Wanita,Jakarta,1/31/1991,5/11/2023 19:40:56,Anak Laki-laki,DKI JAKARTA,Duda,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,5/11/2023 11:56:25,IF
+12212003901,12211003389,Elfxxxxxani,Wanita,Jakarta,8/27/1989,12/22/2022 10:19:48,Anak Perempuan,DKI JAKARTA,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,undefined,Staff,100-500 Juta,BANK MANDIRI,ZLF,Monthly,1/11/2023 3:12:11,IF
+12301000682,,Dwixxxxxani,Wanita,Semarang,3/30/1990,1/23/2023 13:14:27,Anak Perempuan,JAWA TENGAH,Duda,Pegawai Swasta,undefined,Staff,60-100 Juta,Mandiri Bank,ZLP,Monthly,6/10/2023 2:00:50,IF
+12302002235,,Silxxxxxvia,Wanita,bandung,11/20/1984,2/22/2023 21:39:02,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri,ZLF,Monthly,2/24/2023 2:13:42,IF
+12303002774,,Shexxxxxgih,Wanita,Banyuwangi,6/10/1991,3/1/2023 8:44:34,Anak Perempuan,JAWA TIMUR,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,BRI,ZLF,Monthly,3/1/2023 9:09:25,IF
+12303002809,12303002774,Ridxxxxxoro,Pria,Jember,7/10/1988,3/1/2023 17:15:22,Anak Perempuan,JAWA TIMUR,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,Bank Jatim,ZLF,Monthly,3/1/2023 9:20:35,IF
+12303003739,,Ibrxxxxxdra,Pria,Pontianak,2/5/1964,3/20/2023 11:15:51,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/20/2023 3:26:56,IF
+12303004002,12303003819,Rusxxxxxiko,Pria,Madiun,6/6/1968,3/25/2023 10:45:49,Anak Perempuan,JAWA TIMUR,Duda,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/28/2023 12:27:03,IF
+12304004549,,Jacxxxxxohy,Pria,Jakarta,2/22/1980,4/4/2023 0:40:27,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/3/2023 17:19:24,IF
+12304004833,,Nurxxxxxzah,Wanita,KEDIRI,10/9/2000,4/11/2023 11:29:24,Anak Perempuan,BALI,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,Muamalat Bank,ZLP,Monthly,4/11/2023 3:48:37,
+12304004879,,Gitxxxxxtri,Wanita,Surabaya,4/29/1991,4/12/2023 7:50:37,Anak Perempuan,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/12/2023 0:39:57,IF
+12304005151,,Henxxxxxdjo,Pria,Jakarta,1/13/1978,4/26/2023 14:56:12,Anak Perempuan,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/26/2023 7:29:25,IF
+12305005493,12303004409,Mhdxxxxxldi,Pria,Medan,4/13/1985,5/11/2023 8:18:58,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,100-500 Juta,CIMB NIAGA,ZLF,Monthly,5/11/2023 0:37:17,IF
+12305005542,,Elyxxxxxati,Wanita,Banjarmasin,11/13/1991,5/12/2023 13:17:56,Anak Perempuan,KALIMANTAN SELATAN,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BNI,ZLF,Monthly,3/6/2023 10:17:18,IF
+12305005713,,Akbxxxxxhan,Pria,MEDAN,5/16/1988,5/20/2023 1:54:39,Anak Perempuan,SUMATERA UTARA,Duda,Pegawai Swasta,,Staff,60-100 Juta,BRI,ZLF,Monthly,5/19/2023 18:06:36,IF
+12306006468,12306006443,Fatxxxxxman,Wanita,Bandung,8/21/1996,6/14/2023 10:39:55,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,6/14/2023 3:07:19,IF
+12307007209,,Sisxxxxxh m,Wanita,Jakarta,4/1/1984,7/11/2023 21:36:01,Anak Perempuan,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,7/11/2023 13:49:30,IF
+12307007225,,utoxxxxxomo,Pria,Mojokerto,12/19/1971,7/12/2023 11:26:55,Anak Perempuan,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BNI,ZLF,Yearly,7/14/2023 15:17:18,IF
+12307007227,,kusxxxxxsih,Wanita,Surabaya,1/15/1988,7/12/2023 11:37:24,Anak Perempuan,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,7/14/2023 15:17:18,IF
+12308008569,,Onoxxxxxtri,Wanita,Ngawi,11/11/1965,8/22/2023 11:23:04,Anak Perempuan,JAWA TIMUR,Menikah,Lainnya,Ibu Rumah Tangga,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,8/23/2023 5:17:30,IF
+22210000946,22208000088,OEIxxxxxYEN,Pria,Semarang],5/2/1972,10/1/2022 11:16:30,Anak Perempuan,JAWA TENGAH,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/14/2023 3:35:28,IF
+22302001245,22208000087,LANxxxxxLAH,Wanita,Cirebon,8/16/1986,2/2/2023 19:21:08,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Bank BSI,ZLF,Monthly,2/2/2023 12:03:36,
+72305005820,72305005302,Harxxxxxhap,Wanita,Tebing Tinggi,6/7/1988,5/24/2023 22:15:33,Anak Perempuan,SUMATERA UTARA,Duda,Pegawai Swasta,,Staff,100-500 Juta,Mandiri Bank,ZLF,Yearly,8/12/2023 4:19:43,IF
+112304004617,112211100006,Lucxxxxxtri,Wanita,Madiun,3/14/1972,4/5/2023 14:56:07,Anak Perempuan,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,4/13/2023 10:17:18,IF
+112304004896,112211100006,hanxxxxxhah,Wanita,nganjuk,8/31/1969,4/12/2023 11:22:18,Anak Perempuan,JAWA TIMUR,Duda,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,4/13/2023 10:17:18,IF
+112304004898,112211100006,jokxxxxxoso,Pria,Surabaya,10/11/1977,4/12/2023 11:41:58,Anak Perempuan,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BRI,ZLF,Yearly,4/13/2023 10:17:18,IF
+12212003453,12211002778,Magxxxxxete,Wanita,Ambon,1/23/1980,12/1/2022 12:19:07,Anak Perempuan,JAWA BARAT,Menikah,Lainnya,Agent Asuransi,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/6/2023 12:09:29,IF
+12212003910,,popxxxxxyni,Wanita,Riau,11/8/1992,12/22/2022 19:01:17,Anak Perempuan,JAWA TIMUR,Duda,Lainnya,Wirausaha,Lainnya,60-100 Juta,Bank Central Asia,ZLF,Monthly,2/7/2023 3:19:22,
+12302002281,,Renxxxxxina,Wanita,Majalengka,9/7/1986,2/23/2023 16:17:32,Anak Perempuan,JAWA BARAT,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,2/23/2023 9:19:29,IF
+12303002881,12302002014,Indxxxxxnti,Wanita,Bandung,7/25/1972,3/2/2023 22:17:47,Anak Perempuan,JAWA BARAT,Menikah,Lainnya,Wirausaha,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,3/3/2023 5:36:21,
+12303002944,12303002874,FunxxxxxNay,Wanita,puputatas,9/12/1965,3/4/2023 13:07:11,Anak Perempuan,KEPULAUAN BANGKA BELITUNG,Duda,Lainnya,IRT,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/4/2023 5:38:05,IF
+12303003011,,Nyoxxxxxati,Wanita,Bandung,12/15/1965,3/5/2023 21:52:14,Anak Perempuan,JAWA BARAT,Duda,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/5/2023 14:46:26,IF
+12304004907,,gabxxxxxvan,Wanita,yogyakarta,6/9/1989,4/12/2023 18:39:47,Anak Perempuan,JAWA TIMUR,Duda,Lainnya,makeup artist,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,4/12/2023 10:59:21,IF
+12304005222,,Endxxxxxsih,Wanita,Jakarta,6/19/1965,4/29/2023 12:57:40,Anak Perempuan,JAWA BARAT,Duda,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,4/30/2023 7:39:50,IF
+12305005499,,Tanxxxxxnto,Pria,Garut,8/19/1962,5/11/2023 12:07:39,Anak Perempuan,JAWA BARAT,Menikah,Lainnya,Agen Asuransi,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,5/12/2023 5:56:45,IF
+12305005577,,Isnxxxxxamu,Wanita,Ambon,7/2/1963,5/13/2023 22:33:35,Anak Perempuan,BANTEN,Duda,Lainnya,Ibu Rumah Tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,5/17/2023 10:17:18,IF
+12305005876,,Lilxxxxxyni,Wanita,Jakarta,7/20/1964,5/26/2023 23:57:18,Anak Perempuan,BANTEN,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,6/18/2023 15:15:25,IF
+12308007911,12307007843,CHRxxxxxURI,Wanita,BUNTU RAJA,5/27/1982,8/1/2023 16:59:48,Anak Perempuan,RIAU,Menikah,Lainnya,MENGURUS RUMAH TANGGA,Lainnya,60-100 Juta,BRI,ZLF,Monthly,8/1/2023 14:03:44,IF
+112303003046,112211100006,NOVxxxxxENI,Wanita,Tulungagung,4/23/1973,3/6/2023 15:06:53,Anak Perempuan,JAWA TIMUR,Menikah,Lainnya,Dosen,Lainnya,60-100 Juta,BCA BANK,ZLF,Yearly,3/6/2023 10:17:18,IF
+112304004895,112211100006,melxxxxxwan,Wanita,Surakarta,10/17/1968,4/12/2023 11:15:41,Anak Perempuan,JAWA TIMUR,Menikah,Lainnya,Dosen,Lainnya,60-100 Juta,BCA BANK,ZLF,Yearly,4/12/2023 10:17:18,IF
+12301000039,,Vicxxxxxmah,Wanita,BANDUNG,5/8/1981,1/3/2023 13:29:10,Anak Perempuan,JAWA BARAT,Menikah,Lainnya,WIRASWASTA,Direktur,100-500 Juta,Bank BCA,ZLP,Monthly,1/9/2023 12:01:29,IF
+12301000502,12301000039,Fuaxxxxxyim,Pria,Lampung Selatan,7/17/1977,1/19/2023 14:57:34,Anak Perempuan,LAMPUNG,Menikah,Lainnya,Wiraswasta,Direktur,60-100 Juta,Bank BRI,ZLP,Monthly,2/5/2023 2:33:52,
+12307006966,,Julxxxxxlan,Pria,Lubuk pakam,7/1/1967,7/2/2023 10:43:20,Anak Perempuan,RIAU,Menikah,Lainnya,Wiraswasta,Direktur,60-100 Juta,Mandiri Bank,ZLF,Monthly,7/2/2023 3:40:02,IF
+12307007254,,Hanxxxxxdra,Wanita,Jakarta,1/6/1965,7/13/2023 9:53:49,Anak Perempuan,DKI JAKARTA,Duda,Lainnya,Wiraswasta,Direktur,100-500 Juta,BCA BANK,ZLF,Monthly,7/14/2023 10:59:17,IF
+12308008587,,Risxxxxxani,Wanita,Bogor,11/16/1984,8/23/2023 6:36:02,Anak Perempuan,JAWA BARAT,Menikah,Lainnya,Ibu rumah tangga,Direktur,60-100 Juta,BCA BANK,ZLF,Monthly,8/23/2023 9:40:28,IF
+22304005144,22210001109,Andxxxxxsih,Wanita,Jakarta,7/21/1982,4/26/2023 9:05:33,Anak Perempuan,DKI JAKARTA,Duda,Pegawai Swasta,,Direktur,60-100 Juta,BCA BANK,ZLF,Monthly,4/26/2023 9:40:30,IF
+162308008314,162307007461,Aurxxxxxana,Wanita,Malang,9/18/1967,8/14/2023 10:30:26,Anak Perempuan,BANTEN,Menikah,Pegawai Swasta,,Direktur,Diatas 500 Juta,BCA BANK,ZLP,Monthly,8/14/2023 3:05:22,IF
+12302002121,,Melxxxxxdra,Wanita,Watampone,7/1/1989,2/20/2023 16:48:11,Anak Perempuan,SULAWESI SELATAN,Menikah,Lainnya,Ibu rumah tangga,Komisaris,60-100 Juta,BRI,ZLF,Yearly,2/20/2023 11:49:53,IF
+12302002763,12302002121,Go xxxxxama,Pria,Maumere,11/4/1981,2/28/2023 22:40:53,Anak Perempuan,SULAWESI SELATAN,Menikah,Lainnya,Wiraswasta,Komisaris,100-500 Juta,BCA BANK,ZLP,Monthly,2/28/2023 15:21:37,IF
+12305005608,,pucxxxxxean,Wanita,Bogor,2/25/1996,5/15/2023 3:16:07,Anak Perempuan,BANTEN,Menikah,Lainnya,ibu rumah tangga,Komisaris,100-500 Juta,BCA BANK,ZLF,Monthly,5/14/2023 19:40:07,IF
+12303002772,,Gayxxxxxsno,Wanita,Jakarta,10/28/1990,3/1/2023 8:04:40,Anak Perempuan,DKI JAKARTA,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,3/1/2023 7:23:49,IF
+12304005173,,Zomxxxxxani,Wanita,Medan,10/9/1977,4/27/2023 9:57:53,Anak Perempuan,BANTEN,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,4/27/2023 3:06:45,
+12305006079,,Azixxxxxyar,Pria,Jombang,6/2/1967,5/31/2023 21:46:15,Anak Perempuan,JAWA TIMUR,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,Mandiri Bank,ZLP,Monthly,5/31/2023 14:33:09,IF
+12308008319,,Jilxxxxxfer,Wanita,Jakarta,3/27/1986,8/14/2023 12:43:44,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Asisten Manajer,60-100 Juta,Mandiri Bank,ZLF,Monthly,8/14/2023 5:43:16,IF
+12308008399,,Karxxxxxian,Wanita,Banjarmasin,7/12/1993,8/16/2023 15:02:10,Anak Perempuan,DKI JAKARTA,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Asisten Manajer,60-100 Juta,BNI,ZLF,Monthly,8/16/2023 7:21:43,IF
+12301000070,,Trixxxxxini,Pria,Bogor,4/29/1992,1/4/2023 11:42:32,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Bank BCA,ZLF,Monthly,1/28/2023 10:16:34,IF
+12301000247,,Sylxxxxxard,Wanita,banjarbaru,6/8/1979,1/10/2023 18:19:05,Anak Perempuan,BANTEN,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,BCA BANK,ZLF,Monthly,2/10/2023 16:22:58,IF
+12301000341,,Arixxxxxadi,Pria,Jakarta,3/21/1977,1/13/2023 15:29:37,Anak Perempuan,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Bank Mandiri,ZLF,Monthly,1/16/2023 8:01:36,
+12301000343,,Edwxxxxxray,Pria,Manado,9/20/1984,1/13/2023 15:50:57,Anak Perempuan,JAWA TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,BCA BANK,ZLF,Monthly,5/30/2023 4:52:50,IF
+12302002258,,Rifxxxxxani,Wanita,Jakarta,7/5/1990,2/23/2023 10:47:03,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,2/23/2023 3:19:06,
+12303002933,,RATxxxxx SE,Wanita,Bandar Lampung,6/28/1982,3/4/2023 8:13:52,Anak Perempuan,LAMPUNG,Duda,Lainnya,Wirausaha,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Monthly,3/5/2023 4:14:38,IF
+12303003985,,Anixxxxxaty,Wanita,Bandung,5/2/1981,3/24/2023 21:49:54,Anak Perempuan,JAWA BARAT,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Kepala Divisi/Manager,100-500 Juta,BTN,ZLF,Monthly,4/26/2023 2:59:08,IF
+12304004886,,Yenxxxxxtts,Wanita,Jakarta,3/2/1982,4/12/2023 9:15:14,Anak Perempuan,JAWA BARAT,Duda,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,BANK PERMATA,ZLF,Monthly,5/1/2023 1:52:09,IF
+12304004994,,SUNxxxxxRSO,Pria,SEMARANG,5/15/1978,4/17/2023 15:42:53,Anak Perempuan,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Monthly,4/17/2023 8:04:15,
+12306006235,,Etsxxxxxdra,Wanita,Jogjakarta,7/13/1977,6/6/2023 18:49:47,Anak Perempuan,JAWA BARAT,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Kepala Divisi/Manager,100-500 Juta,BRI,ZLF,Monthly,6/6/2023 11:25:19,IF
+12308008540,,Ronxxxxxnci,Pria,Jakarta,2/9/1989,8/21/2023 16:12:07,Anak Perempuan,BANTEN,Menikah,Lainnya,Pilot,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Monthly,8/21/2023 8:30:43,IF
+162308007953,162307007461,Gitxxxxxani,Wanita,Jakarta,7/26/1984,8/2/2023 11:45:03,Anak Perempuan,BANTEN,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,Danamon Bank,ZLF,Monthly,8/2/2023 3:55:53,IF
+162308008745,162307007461,Bunxxxxxyah,Wanita,Jakarta,12/3/1989,8/27/2023 20:59:33,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BNI,ZLF,Yearly,8/27/2023 13:17:36,IF
+12302002237,,Fiqxxxxxiqh,Pria,Jakarta,2/11/1987,2/22/2023 21:42:38,Anak Perempuan,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,2/22/2023 15:40:20,IF
+12304004947,,Frexxxxxiki,Pria,Gorontalo,10/30/1970,4/15/2023 0:09:16,Anak Perempuan,JAWA TENGAH,Menikah,Lainnya,Divisi manager,Supervisor/Koordinator,60-100 Juta,BCA BANK,ZLF,Monthly,7/11/2023 5:50:12,IF
+12308008627,12308008587,TrixxxxxAji,Pria,Bekasi,6/10/1981,8/24/2023 13:40:47,Anak Perempuan,JAWA BARAT,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,8/24/2023 6:06:39,IF
+12301000414,,Janxxxxxaya,Wanita,Jakarta,12/17/1986,1/16/2023 23:16:20,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA,ZLF,Yearly,1/16/2023 15:26:24,IF
+12302001157,12211002796,Yacxxxxxtra,Wanita,Jakarta,2/3/1965,2/1/2023 10:06:48,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Agent asuransi,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/29/2023 23:44:27,IF
+12302001228,,Tatxxxxxtyo,Pria,Yogyakarta,3/14/1971,2/2/2023 13:41:22,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,undefined,Staff,100-500 Juta,Bank Central Asia,ZLF,Monthly,2/2/2023 5:56:22,IF
+12303002844,,Ranxxxxxnto,Pria,Jakarta,7/29/1985,3/2/2023 12:26:37,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLP,Monthly,3/2/2023 5:00:50,
+12303003087,,Alixxxxxnto,Pria,Jakarta,7/20/1990,3/7/2023 8:21:33,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,Guru,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,3/7/2023 0:39:58,IF
+12303003136,,Dicxxxxxwan,Pria,Palembang,5/7/1990,3/7/2023 22:46:06,Suami atau Istri,SUMATERA SELATAN,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/7/2023 15:14:39,
+12303003679,12303003498,SUYxxxxxONO,Pria,jambi,9/30/1987,3/18/2023 13:14:04,Suami atau Istri,JAMBI,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/23/2023 8:02:48,
+12304004639,,Sahxxxxxung,Pria,Jakarta,7/19/1977,4/6/2023 0:46:30,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,Vocal Instructor,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/5/2023 17:00:00,IF
+12304004932,,Vanxxxxxman,Wanita,Medan,1/27/1989,4/13/2023 22:03:01,Suami atau Istri,SUMATERA UTARA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/16/2023 14:21:59,IF
+12304004980,,Chaxxxxxdra,Pria,Binjai,4/30/1989,4/16/2023 22:28:44,Suami atau Istri,SUMATERA UTARA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,4/16/2023 14:35:37,IF
+12305005348,,Denxxxxxtra,Pria,Jakarta,11/8/1981,5/4/2023 20:53:49,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,Diatas 500 Juta,BCA BANK,ZLF,Monthly,5/4/2023 13:10:09,IF
+12305005398,,Ryaxxxxxbar,Pria,Sumenep,8/26/1991,5/8/2023 11:26:07,Suami atau Istri,JAWA BARAT,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,100-500 Juta,BCA BANK,ZLF,Yearly,5/8/2023 5:06:43,IF
+12305005403,,Wahxxxxxdin,Pria,Karawang,8/19/1987,5/8/2023 13:55:38,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLF,Quarterly,5/8/2023 23:32:18,IF
+12306006137,,CHRxxxxxANI,Wanita,Surabaya,6/16/1992,6/3/2023 1:15:12,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,6/2/2023 17:34:45,IF
+12306006168,,LauxxxxxPra,Pria,Yogyakarta,7/21/1980,6/4/2023 0:38:32,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLF,Monthly,6/3/2023 17:20:17,IF
+12306006455,,Marxxxxxini,Wanita,Jakarta,3/5/1993,6/13/2023 20:21:40,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,6/14/2023 16:09:13,IF
+12306006803,,Murxxxxxana,Wanita,Pontianak,9/5/1967,6/26/2023 10:22:01,Suami atau Istri,JAWA TENGAH,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,6/26/2023 2:52:32,IF
+12306006938,,Hafxxxxxara,Pria,Tulungagung,5/8/1993,6/30/2023 20:35:26,Suami atau Istri,KALIMANTAN TIMUR,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,100-500 Juta,Mandiri,ZLF,Monthly,6/30/2023 13:03:38,IF
+12307007001,,Chaxxxxxana,Pria,Muara Enim,11/20/1993,7/4/2023 9:20:27,Suami atau Istri,SUMATERA SELATAN,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,7/6/2023 12:25:48,IF
+12307007009,12307007000,I mxxxxxika,Pria,Jakarta,8/31/1986,7/4/2023 15:12:01,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri,ZLF,Monthly,7/4/2023 7:27:06,IF
+12307007224,,akhxxxxxkan,Pria,Surabaya,10/9/1981,7/12/2023 11:19:47,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,Mandiri Bank,ZLF,Yearly,7/14/2023 15:17:18,IF
+12307007228,,sonxxxxxiwu,Wanita,Surabaya,5/2/1973,7/12/2023 12:13:28,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,7/28/2023 10:17:18,IF
+12307007233,,mocxxxxxleh,Pria,Kediri,1/4/1973,7/12/2023 14:01:03,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,7/14/2023 15:17:18,IF
+12307007274,,Menxxxxxdri,Wanita,Semarang,4/20/1988,7/13/2023 23:34:50,Suami atau Istri,JAWA TENGAH,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BANK PERMATA,ZLP,Monthly,7/14/2023 5:02:28,IF
+12307007414,,usixxxxxeno,Pria,Pacitan,6/6/1973,7/18/2023 16:32:19,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BRI,ZLF,Yearly,7/28/2023 10:17:18,IF
+12307007482,,Benxxxxxani,Wanita,Padang Panjang,9/18/1989,7/21/2023 3:51:41,Suami atau Istri,JAWA BARAT,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,BNI,ZLF,Monthly,7/21/2023 15:12:52,IF
+12307007513,,Kukxxxxxowo,Pria,Balikpapan,1/1/1991,7/22/2023 0:38:15,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,7/22/2023 18:17:12,IF
+12307007633,12307007434,RINxxxxxRAT,Wanita,SIBOLGA,2/6/1984,7/25/2023 21:33:54,Suami atau Istri,SUMATERA UTARA,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,60-100 Juta,Mandiri Bank,ZLF,Monthly,7/25/2023 21:18:40,IF
+12307007667,12307007556,Herxxxxxang,Pria,Kampung Baru,4/24/1987,7/26/2023 17:43:31,Suami atau Istri,SUMATERA UTARA,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BRI,ZLF,Monthly,7/26/2023 17:12:13,IF
+12308008372,,Rizxxxxxron,Pria,Jakarta,6/16/1998,8/15/2023 18:35:44,Suami atau Istri,DKI JAKARTA,Belum Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,8/15/2023 11:08:24,IF
+12308008414,,Sucxxxxxril,Wanita,Jakarta,4/9/1992,8/17/2023 14:14:36,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,8/17/2023 14:00:18,IF
+12308008636,,Resxxxxxani,Wanita,Jakarta,5/3/1991,8/24/2023 19:44:11,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Ibu rumah tangga,Staff,100-500 Juta,BTN,ZLF,Quarterly,8/29/2023 0:13:10,
+12308008669,,Belxxxxxait,Pria,Belawan,12/9/1991,8/25/2023 12:20:45,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Staff,100-500 Juta,BCA BANK,ZLF,Monthly,8/25/2023 4:53:36,IF
+12308008765,,Krixxxxxdra,Pria,SIDOARJO,6/9/1981,8/28/2023 13:49:02,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,8/28/2023 15:18:09,
+22306006422,22208000086,faixxxxxsol,Pria,pekalongan,1/16/1986,6/12/2023 22:37:27,Suami atau Istri,JAWA TENGAH,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Staff,100-500 Juta,BRI,ZLF,Monthly,6/13/2023 7:28:54,IF
+72301001000,72301000230,Pahxxxxxozi,Pria,SAMARINDA,10/2/1994,1/29/2023 6:48:15,Suami atau Istri,KALIMANTAN TIMUR,Menikah,Pegawai Swasta,,Staff,60-100 Juta,BCA BANK,ZLF,Monthly,3/21/2023 9:17:31,IF
+112303003045,112211100006,Iraxxxxxwan,Pria,Blora,10/5/1977,3/6/2023 15:06:51,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Administrasi,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,3/6/2023 10:17:18,IF
+112303003049,112211100006,Arixxxxxnto,Pria,Surabaya,5/12/1979,3/6/2023 15:12:27,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Koordinator Teknisi,Staff,60-100 Juta,BCA BANK,ZLF,Yearly,3/6/2023 10:17:18,IF
+12211003411,12211003381,Debxxxxxgki,Wanita,Samarinda,3/29/1978,11/30/2022 17:25:03,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,4/2/2023 15:00:00,
+12301000497,,Atoxxxxxnio,Pria,Kuningan,2/27/1986,1/19/2023 11:04:55,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,Wiraswasta,Lainnya,100-500 Juta,Mandiri,ZLF,Yearly,1/19/2023 3:13:22,IF
+12302001232,,Dewxxxxxari,Wanita,Ketapang,10/29/1993,2/2/2023 15:01:28,Suami atau Istri,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,4/19/2023 15:24:44,IF
+12302002565,,Prixxxxxdra,Pria,Surabaya,11/4/1985,2/26/2023 6:14:21,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Freelancer,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,2/26/2023 17:00:00,
+12303002798,12302002014,Indxxxxxwan,Pria,Jakarta,5/20/1982,3/1/2023 13:58:46,Suami atau Istri,BANTEN,Menikah,Lainnya,WIRASWASTA,Lainnya,100-500 Juta,BANK PERMATA,ZLF,Monthly,3/2/2023 3:59:05,IF
+12303003057,,Stexxxxxisa,Wanita,Surabaya,3/2/1989,3/6/2023 19:51:30,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Ibu rumah tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/6/2023 12:02:55,
+12303003067,,Akhxxxxxwan,Pria,BUATAN,10/8/1982,3/6/2023 22:31:51,Suami atau Istri,RIAU,Menikah,Lainnya,Pendamping Masyarakat,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,3/6/2023 14:51:36,
+12303003103,,Ardxxxxxius,Pria,Tanjung Pinang,10/18/1986,3/7/2023 11:42:38,Suami atau Istri,KEPULAUAN RIAU,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Lainnya,100-500 Juta,Mandiri Bank,ZLF,Half yearly,3/8/2023 4:43:34,
+12303003453,,Crixxxxxrto,Pria,Jakarta,6/1/1970,3/14/2023 9:47:34,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/14/2023 15:13:07,IF
+12303003484,,Sunxxxxxrni,Wanita,Tegal,4/1/1965,3/14/2023 23:48:38,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Ibu Rumah Tangga,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/14/2023 16:33:51,IF
+12303004097,12303003498,Gatxxxxxwan,Pria,Semarang,6/11/1974,3/27/2023 8:17:11,Suami atau Istri,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,3/30/2023 9:30:20,
+12303004206,12211003406,johxxxxxnto,Pria,Jakarya,5/26/1975,3/28/2023 19:06:33,Suami atau Istri,DI YOGYAKARTA,Menikah,Lainnya,Wiraswasta,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,5/9/2023 2:17:31,IF
+12304004876,,Filxxxxxosa,Pria,Semarang,7/15/1986,4/12/2023 5:37:34,Suami atau Istri,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Lainnya,100-500 Juta,BCA BANK,ZLF,Yearly,4/11/2023 22:05:55,IF
+12304004910,,Ricxxxxxdou,Pria,Semarang,6/8/1980,4/12/2023 22:32:46,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,4/13/2023 0:10:48,IF
+12305005257,12303003507,Risxxxxxati,Wanita,Rantai damai,6/11/1990,5/1/2023 16:18:14,Suami atau Istri,SULAWESI SELATAN,Menikah,Lainnya,Pedagang,Lainnya,60-100 Juta,BRI,ZLF,Monthly,5/1/2023 8:26:37,IF
+12306006176,,Setxxxxxdjo,Pria,Pekalongan,12/28/1982,6/4/2023 12:26:07,Suami atau Istri,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,6/4/2023 4:54:38,IF
+12306006259,12306006176,Siexxxxxoto,Pria,Pati,2/5/1980,6/7/2023 13:54:44,Suami atau Istri,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,6/9/2023 6:42:20,IF
+12306006297,12306006176,Yesxxxxxewi,Wanita,Pati,1/29/1983,6/8/2023 19:12:42,Suami atau Istri,JAWA TENGAH,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,6/13/2023 3:58:28,IF
+12306006536,,Marxxxxxnto,Pria,Jakarta,11/25/1992,6/16/2023 9:26:01,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,PEDAGANG,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,6/16/2023 1:57:04,IF
+12306006605,,JHOxxxxxJAK,Pria,SAMPETUA,8/5/1988,6/19/2023 15:49:36,Suami atau Istri,RIAU,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,6/22/2023 4:30:08,IF
+12306006671,12306006605,HOTxxxxxTOM,Wanita,LUMBANHARIARA,10/26/1983,6/21/2023 12:13:07,Suami atau Istri,RIAU,Menikah,Lainnya,Kebun sawit,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,6/22/2023 8:46:20,IF
+12306006748,12306006671,SISxxxxxTOM,Wanita,LUMBANHARIARA,12/31/1979,6/23/2023 14:40:44,Suami atau Istri,RIAU,Menikah,Lainnya,Kebun sawit,Lainnya,60-100 Juta,BRI,ZLF,Monthly,6/26/2023 9:36:21,IF
+12306006873,,Radxxxxxlva,Pria,ntt,12/18/1983,6/28/2023 13:30:40,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,wiraswasta,Lainnya,100-500 Juta,BCA BANK,ZLF,Yearly,6/28/2023 12:00:48,IF
+12306006892,12306006688,ROSxxxxxTOM,Wanita,KAMPUNG BERINGIN,5/3/1979,6/28/2023 21:39:00,Suami atau Istri,RIAU,Menikah,Lainnya,MENGURUS RUMAH TANGGA,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,6/28/2023 14:26:50,IF
+12306006915,12306006605,BETxxxxxPAR,Wanita,SIBORONG BORONG,10/13/1978,6/30/2023 12:21:27,Suami atau Istri,RIAU,Menikah,Lainnya,Mengurus rumah tangga,Lainnya,60-100 Juta,BRI,ZLF,Monthly,6/30/2023 15:41:39,IF
+12307007049,,Mayxxxxxani,Wanita,Ciamis,10/27/1993,7/5/2023 12:59:52,Suami atau Istri,SUMATERA SELATAN,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,7/6/2023 7:43:44,IF
+12307007099,,Chixxxxxnti,Wanita,Bandung,1/12/1992,7/7/2023 14:28:35,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,Wiraswasta,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,7/7/2023 13:41:19,IF
+12307007329,,Tonxxxxxadi,Pria,Jakarta,6/6/1970,7/15/2023 22:57:44,Suami atau Istri,BANTEN,Menikah,Lainnya,Freelance,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,8/1/2023 15:17:12,IF
+12307007373,12306006671,MANxxxxxONG,Pria,KAMPUNG TAPANULI,3/3/1976,7/17/2023 9:10:31,Suami atau Istri,RIAU,Menikah,Lainnya,PEKEBUN,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,7/19/2023 4:46:22,IF
+12307007374,12306006671,PULxxxxxPUL,Pria,BANDAR PURBA,5/18/1973,7/17/2023 9:16:51,Suami atau Istri,RIAU,Menikah,Lainnya,PEKEBUN,Lainnya,60-100 Juta,BRI,ZLF,Monthly,7/19/2023 4:20:29,IF
+12307007434,12307007410,JHOxxxxxAHI,Pria,SIPAHUTAR,2/26/1978,7/19/2023 19:05:56,Suami atau Istri,SUMATERA UTARA,Menikah,Lainnya,MARKETING ASURANSI dan MLM,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,7/19/2023 11:33:00,IF
+12307007587,12306006671,LUSxxxxxHOR,Wanita,MEDAN,5/18/1986,7/24/2023 17:50:43,Suami atau Istri,SUMATERA UTARA,Menikah,Lainnya,PETANI,Lainnya,60-100 Juta,Mandiri Bank,ZLF,Monthly,7/27/2023 10:38:23,IF
+12307007727,,Floxxxxxena,Wanita,Bogor,6/8/1990,7/27/2023 22:38:34,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,Usaha Katering,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,7/27/2023 15:12:11,IF
+12307007808,,Jonxxxxxrto,Pria,Bandung,6/4/1966,7/30/2023 0:02:53,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,Wiraswasta,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,7/30/2023 10:12:26,IF
+12308007927,12307007860,DANxxxxxSEA,Pria,SURABAYA,9/29/1990,8/1/2023 22:04:56,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,PENDETA,Lainnya,60-100 Juta,BCA BANK,ZLF,Monthly,8/2/2023 4:34:04,IF
+22303003290,22210001560,Antxxxxxnky,Pria,Bengkulu,8/11/1982,3/10/2023 14:44:35,Suami atau Istri,BENGKULU,Menikah,Lainnya,Wiraswasta,Lainnya,100-500 Juta,BCA BANK,ZLF,Monthly,3/16/2023 1:34:47,IF
+72305005755,72301000230,Nurxxxxxyat,Pria,Cirebon,5/14/1996,5/22/2023 17:28:25,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,Wirausaha,Lainnya,100-500 Juta,Mandiri Bank,ZLF,Monthly,5/22/2023 9:43:56,IF
+12304004924,12304004910,Bunxxxxxnga,Wanita,Semarang,4/30/1984,4/13/2023 13:15:57,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Direktur,Diatas 500 Juta,BCA BANK,ZLF,Monthly,4/13/2023 5:39:57,IF
+12304005000,,Marxxxxxung,Pria,Tarutung,1/15/1971,4/17/2023 19:40:10,Suami atau Istri,JAWA BARAT,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Direktur,Diatas 500 Juta,BCA BANK,ZLF,Monthly,7/7/2023 8:53:55,IF
+12304005108,,Alfxxxxxlis,Pria,Jakarta,10/22/1987,4/23/2023 16:05:03,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Direktur,Diatas 500 Juta,BCA BANK,ZLF,Yearly,4/23/2023 8:23:44,IF
+12306006652,,Ranxxxxxoso,Pria,Surabaya,1/5/1989,6/20/2023 16:20:25,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Wirausaha,Direktur,100-500 Juta,BCA BANK,ZLF,Monthly,7/1/2023 6:21:45,IF
+12307006970,12306006735,Ritxxxxxsel,Pria,Bogor,12/4/1982,7/2/2023 15:09:16,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Wiraswasta,Direktur,100-500 Juta,BCA BANK,ZLF,Monthly,7/2/2023 7:21:14,IF
+12307007109,,Adixxxxxoga,Pria,Malang,9/14/1986,7/7/2023 21:43:03,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Direktur,100-500 Juta,BCA BANK,ZLF,Monthly,7/7/2023 13:55:08,IF
+12307007277,,Alfxxxxxdra,Pria,Bangka,1/18/1992,7/14/2023 5:42:46,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,undefined,Direktur,60-100 Juta,BCA BANK,ZLF,Monthly,7/14/2023 5:09:31,IF
+12307007410,12306006688,CHRxxxxxJAK,Pria,SAMPETUA,8/5/1984,7/18/2023 12:48:35,Suami atau Istri,SUMATERA UTARA,Menikah,Lainnya,WIRASWASTA,Direktur,60-100 Juta,BRI,ZLF,Monthly,7/19/2023 10:18:14,IF
+12307007495,,Bahxxxxxiar,Pria,Jakarta,12/2/1971,7/21/2023 15:04:09,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Wirausaha,Direktur,100-500 Juta,BRI,ZLF,Monthly,7/31/2023 6:19:14,IF
+12308008189,,Adixxxxxana,Pria,Bogor,8/30/1984,8/10/2023 12:43:50,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Direktur,100-500 Juta,BRI,ZLF,Monthly,8/11/2023 8:32:08,IF
+12308008287,,Johxxxxxlan,Pria,Medan,5/3/1988,8/13/2023 19:06:33,Suami atau Istri,SUMATERA UTARA,Menikah,Lainnya,Wiraswasta,Direktur,100-500 Juta,BNI,ZLF,Yearly,8/13/2023 11:26:06,IF
+12308008551,12308008433,Krixxxxxadi,Pria,Denpasar,4/23/1986,8/21/2023 22:09:13,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Wirausaha,Direktur,100-500 Juta,BCA BANK,ZLF,Yearly,8/21/2023 14:49:52,IF
+22211002054,22208000087,Marxxxxxy S,Pria,Jakarta,5/7/1978,11/10/2022 11:41:28,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Direktur,Diatas 500 Juta,BCA,ZLF,Yearly,1/18/2023 1:46:08,IF
+12308007964,,Rayxxxxxnus,Pria,Jakarta,11/3/1986,8/2/2023 13:18:14,Suami atau Istri,DKI JAKARTA,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Eselon 4,100-500 Juta,Bank DKI,ZLF,Yearly,8/2/2023 5:36:49,IF
+12301001070,12301001059,Rinxxxxxnti,Wanita,MAGETAN,2/26/1986,1/30/2023 15:04:36,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,WIRAUSAHA,Komisaris,60-100 Juta,BSI,ZLF,Monthly,2/7/2023 4:00:23,IF
+12302001240,12301001059,ARIxxxxxNTO,Pria,Madiun,3/12/1981,2/2/2023 17:54:47,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,WIRAUSAHA,Komisaris,60-100 Juta,BCA,ZLF,Monthly,2/7/2023 4:01:17,IF
+12303004113,,putxxxxxtri,Wanita,bandung,10/7/1990,3/27/2023 14:43:40,Suami atau Istri,JAWA BARAT,Menikah,Lainnya,pengusaha,Komisaris,60-100 Juta,BCA BANK,ZLF,Monthly,6/20/2023 4:30:40,IF
+12305005718,,Ugaxxxxxdra,Pria,Jakarta,12/29/1974,5/20/2023 9:53:52,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Wirausaha,Komisaris,100-500 Juta,BCA BANK,ZLF,Monthly,5/29/2023 7:03:51,
+12302002076,,RAHxxxxxYAT,Pria,CILACAP,3/10/1998,2/19/2023 15:28:08,Suami atau Istri,BANTEN,Menikah,Lainnya,AGEN ASURANSI,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,2/19/2023 7:45:04,
+12303002776,,Erfxxxxxara,Pria,Palembang,3/12/1988,3/1/2023 9:14:30,Suami atau Istri,SUMATERA SELATAN,Menikah,Pegawai Swasta,undefined,Asisten Manajer,100-500 Juta,BCA BANK,ZLP,Monthly,3/1/2023 1:43:14,
+12303003716,,Jimxxxxxs H,Pria,Jakarta,8/27/1986,3/19/2023 22:43:05,Suami atau Istri,JAWA BARAT,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Asisten Manajer,100-500 Juta,BNI,ZLF,Monthly,3/25/2023 1:11:11,
+12303003754,,Amexxxxxnti,Wanita,Surabaya,2/1/1992,3/20/2023 12:50:13,Suami atau Istri,JAWA TIMUR,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Asisten Manajer,100-500 Juta,BNI,ZLF,Monthly,3/20/2023 5:10:15,IF
+12306006274,,ST xxxxxoho,Pria,Jakarta,4/16/1988,6/8/2023 0:07:00,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,6/19/2023 10:17:18,IF
+12307007120,,Yunxxxxxdra,Wanita,Kediri,6/24/1980,7/8/2023 8:58:04,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,Mandiri,ZLF,Monthly,7/8/2023 18:58:00,IF
+12307007180,,Danxxxxxzer,Pria,Tangerang,4/15/1993,7/11/2023 0:49:48,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,BCA BANK,ZLF,Monthly,7/14/2023 16:22:30,IF
+12307007797,,Marxxxxxrta,Wanita,Surabaya,5/9/1998,7/29/2023 16:50:09,Suami atau Istri,BALI,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,Mandiri Bank,ZLF,Yearly,7/29/2023 8:54:35,IF
+12308008100,,Liexxxxxesa,Wanita,Ambon,10/19/1974,8/7/2023 16:22:23,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Asisten Manajer,100-500 Juta,CIMB NIAGA,ZLF,Yearly,8/7/2023 8:47:58,IF
+22306006352,22208000087,Rayxxxxxama,Pria,Jakarta,1/14/1986,6/10/2023 17:31:15,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Asisten Manajer,Diatas 500 Juta,OCBC,ZLF,Monthly,6/10/2023 9:47:04,IF
+12208000054,,Surxxxxxaus,Pria,Jakarta,2/6/1985,8/10/2022 15:23:27,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Monthly,3/13/2023 8:50:39,IF
+12301000398,,MOCxxxxxMAN,Pria,Surabaya,1/31/1985,1/16/2023 11:54:58,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Bank Central Asia,ZLF,Monthly,1/16/2023 4:12:33,IF
+12301000882,,Danxxxxxang,Pria,Banjarmasin,12/3/1980,1/26/2023 17:50:09,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Bank Central Asia,ZLF,Monthly,1/26/2023 10:09:57,IF
+12302001975,,ricxxxxxhri,Pria,jakarta,9/23/1985,2/17/2023 10:36:36,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,2/17/2023 4:45:54,IF
+12302002014,12302001435,Tauxxxxxndi,Pria,Jakarta,7/23/1981,2/17/2023 21:07:31,Suami atau Istri,DKI JAKARTA,Menikah,Lainnya,Agen generali indonesia,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,2/22/2023 6:21:42,IF
+12303003358,,ANDxxxxxOVA,Pria,Jakarta,5/12/1986,3/12/2023 9:45:55,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,BCA BANK,ZLF,Quarterly,3/12/2023 2:00:12,IF
+12303004074,,Marxxxxxati,Wanita,Bandar Lampung,9/6/1989,3/26/2023 22:51:14,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLP,Monthly,3/30/2023 23:54:23,IF
+12304004541,,Dimxxxxxain,Pria,Bondowoso,3/3/1985,4/3/2023 19:43:31,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,Mandiri Bank,ZLF,Monthly,4/3/2023 11:54:59,
+12304004676,12304004639,Debxxxxxdji,Wanita,Jakarta,1/11/1977,4/6/2023 22:21:26,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,4/6/2023 15:02:24,IF
+12304005010,,Bruxxxxxere,Pria,Manado,9/13/1987,4/18/2023 10:22:43,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,undefined,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLP,Monthly,4/18/2023 4:00:32,IF
+12304005094,,Micxxxxxi H,Pria,Jakarta,9/26/1989,4/22/2023 7:13:29,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,BRI,ZLF,Monthly,4/26/2023 7:59:26,IF
+12304005132,,Douxxxxxati,Pria,New York,7/27/1977,4/25/2023 15:00:09,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Monthly,8/8/2023 4:31:57,IF
+12305005738,,Karxxxxxari,Wanita,PALEMBANG,8/25/1989,5/21/2023 18:12:00,Suami atau Istri,SUMATERA SELATAN,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Monthly,5/29/2023 3:15:06,IF
+12305005874,,Fesxxxxxgra,Pria,Surabaya,6/26/1990,5/26/2023 22:50:29,Suami atau Istri,JAWA TIMUR,Menikah,PNS/Pejabat Pemerintah/BUMN/BUMD/Perusahaan Negara,,Kepala Divisi/Manager,100-500 Juta,BNI,ZLF,Monthly,5/26/2023 15:12:38,
+12305005917,,Tanxxxxxhen,Pria,Pematang siantar,9/3/1975,5/28/2023 16:58:50,Suami atau Istri,KALIMANTAN TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,BANK PERMATA,ZLF,Monthly,5/28/2023 10:12:53,
+12305006016,,Marxxxxxagi,Pria,Ujungpandang,3/15/1983,5/30/2023 16:48:32,Suami atau Istri,SULAWESI SELATAN,Menikah,Lainnya,Agen asuransi,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,6/16/2023 14:16:03,IF
+12306006727,,Cahxxxxxwan,Pria,Karawang,12/14/1979,6/22/2023 23:12:49,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,6/22/2023 15:29:56,IF
+12306006735,,Tyaxxxxxtri,Wanita,Jakarta,2/1/1985,6/23/2023 8:25:11,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,6/23/2023 0:50:40,IF
+12306006934,,Nadxxxxxani,Wanita,Jakarta,8/10/1987,6/30/2023 18:11:05,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Monthly,6/30/2023 15:52:46,IF
+12307006956,,Jesxxxxxpiw,Pria,Edmonton,11/2/1990,7/1/2023 12:50:39,Suami atau Istri,BALI,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Quarterly,7/1/2023 5:15:29,IF
+12307007631,,Yohxxxxxdra,Pria,Jakarta,6/24/1986,7/25/2023 18:24:55,Suami atau Istri,BALI,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Yearly,7/26/2023 13:25:17,IF
+12307007774,,Augxxxxxlim,Pria,Jakarta,11/7/1989,7/28/2023 23:09:37,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Quarterly,7/28/2023 15:27:13,IF
+12307007776,,Fenxxxxxi S,Wanita,Jakarta,2/6/1992,7/28/2023 23:40:30,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Mandiri Bank,ZLF,Quarterly,7/28/2023 15:53:12,IF
+12307007789,,Lauxxxxxnti,Wanita,Surabaya,2/3/1983,7/29/2023 12:01:24,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Catering,Kepala Divisi/Manager,60-100 Juta,BCA BANK,ZLF,Monthly,7/29/2023 4:30:44,IF
+12307007792,,Ferxxxxxnto,Pria,Ketapang,7/25/1992,7/29/2023 13:43:07,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,7/29/2023 5:55:41,IF
+12307007801,,Sinxxxxxnto,Pria,Surabaya,7/13/1968,7/29/2023 18:35:37,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,7/31/2023 20:30:19,IF
+12308007920,,Hasxxxxxuan,Pria,Siabu,7/6/1967,8/1/2023 19:53:40,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,Manager Projek,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,8/1/2023 12:45:57,IF
+12308008104,,Sayxxxxxdin,Pria,Jakarta,9/12/1978,8/7/2023 18:34:54,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,8/7/2023 11:14:43,IF
+12308008387,,Karxxxxxata,Pria,Indramayu,4/22/1978,8/16/2023 9:39:10,Suami atau Istri,BANTEN,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,CIMB NIAGA Syariah,ZLF,Monthly,8/16/2023 2:56:01,IF
+12308008420,,Rutxxxxxian,Wanita,Pematangsiantar,1/16/1982,8/17/2023 18:51:08,Suami atau Istri,SUMATERA UTARA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,60-100 Juta,BNI,ZLF,Yearly,8/17/2023 11:38:24,IF
+12308008515,,Sauxxxxxian,Pria,Jakarta,7/3/1989,8/20/2023 13:41:31,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,8/20/2023 6:04:05,IF
+12308008585,,Anaxxxxxewi,Wanita,Tuban,10/12/1985,8/23/2023 4:41:53,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,Diatas 500 Juta,UOB,ZLF,Monthly,8/23/2023 5:41:05,IF
+72306006354,72301000933,Julxxxxxnto,Pria,Tuban,7/7/1983,6/10/2023 20:07:25,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Monthly,7/5/2023 15:17:18,IF
+112303003047,112211100006,Harxxxxxono,Pria,Jakarta,7/6/1968,3/6/2023 15:09:56,Suami atau Istri,JAWA TIMUR,Menikah,Lainnya,Manager Admin,Kepala Divisi/Manager,100-500 Juta,BCA BANK,ZLF,Yearly,3/6/2023 10:17:18,IF
+162308008689,162307007461,hanxxxxxiah,Wanita,Aceh,5/16/1988,8/25/2023 17:37:45,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Kepala Divisi/Manager,100-500 Juta,Danamon Bank,ZLP,Yearly,8/25/2023 10:18:25,IF
+12302002482,,Stexxxxxari,Pria,Jakarta,6/16/1989,2/24/2023 21:21:03,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,3/24/2023 15:35:15,IF
+12302002740,,Tjoxxxxxnto,Pria,Jakarta,9/10/1983,2/28/2023 16:59:58,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,Victoria,ZLF,Monthly,3/3/2023 2:23:23,
+12303002848,,RINxxxxxDHI,Pria,Jakarta,8/10/1981,3/2/2023 14:18:57,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,BRI,ZLF,Monthly,3/2/2023 6:54:45,IF
+12303004092,,Anixxxxxani,Wanita,Surabaya,6/15/1992,3/27/2023 5:16:46,Suami atau Istri,JAWA TIMUR,Menikah,Pegawai Swasta,undefined,Supervisor/Koordinator,100-500 Juta,Mandiri Bank,ZLF,Monthly,3/26/2023 21:29:30,
+12303004237,,SUNxxxxxOKO,Pria,NGAWI,8/6/1980,3/29/2023 9:03:38,Suami atau Istri,BANTEN,Menikah,TNI/Polri,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,3/29/2023 3:04:23,
+12303004350,,Retxxxxxtri,Wanita,Jakarta,6/1/1988,3/30/2023 22:43:24,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,3/30/2023 15:26:16,IF
+12305005714,12305005403,Sakxxxxxkin,Pria,Karawang,1/10/1992,5/20/2023 7:03:00,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,Mandiri Bank,ZLF,Quarterly,5/20/2023 0:01:56,IF
+12305005958,,kunxxxxxoho,Pria,Wonosobo,2/18/1982,5/29/2023 16:05:27,Suami atau Istri,KALIMANTAN TENGAH,Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,Mandiri Bank,ZLF,Monthly,5/29/2023 8:37:08,
+12306006443,,Khoxxxxxndi,Pria,Magetan,9/7/1991,6/13/2023 14:48:20,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,Bank Syariah Indonesia,ZLF,Monthly,6/13/2023 7:20:08,IF
+12306006586,,Risxxxxxana,Wanita,Jakarta,10/15/1988,6/18/2023 16:07:31,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,6/20/2023 15:36:53,IF
+12307007240,,Herxxxxxlon,Wanita,Saitnihuta,5/4/1978,7/12/2023 16:59:41,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,60-100 Juta,Mandiri Bank,ZLP,Monthly,7/20/2023 6:35:44,IF
+12307007529,,Banxxxxxomo,Pria,Cilacap,3/26/1979,7/22/2023 13:39:01,Suami atau Istri,DKI JAKARTA,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,7/22/2023 23:25:36,IF
+12307007580,,Budxxxxxman,Pria,Tanjung balai karimun,10/22/1984,7/24/2023 15:51:55,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,7/24/2023 9:56:15,
+12307007866,,Arixxxxxldi,Pria,Jakarta,1/19/1994,7/31/2023 15:13:01,Suami atau Istri,JAWA BARAT,Menikah,Pegawai Swasta,,Supervisor/Koordinator,100-500 Juta,BCA BANK,ZLF,Monthly,7/31/2023 7:33:30,IF
